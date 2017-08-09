@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Python-3 Giriş Proje Örnekleri
 
-You can use the [editor on GitHub](https://github.com/Hidden-S/Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bu platform python programlama dili üzerine temel seviyede projeleri içermektedir.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Merhaba Dünya
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
